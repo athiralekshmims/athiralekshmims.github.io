@@ -1,0 +1,53 @@
+cv:
+  name: Athira Lekshmi Mohandas Sandhya
+  label: Researcher in Surface Science and Electrocatalysis
+  email: ""
+  location: Prague, Czech Republic
+  image: ""
+  summary: >
+    Researcher in electrocatalysis, surface science, nanostructured catalysts,
+    and hydrogen technologies, with a focus on platinum-based catalyst systems,
+    morphology, surface composition, restructuring, degradation, and stability.
+
+  social_networks:
+    - network: GitHub
+      username: athiralekshmims
+    - network: ORCID
+      username: 0000-0001-9369-5654
+
+  sections:
+    Education:
+      - institution: Charles University
+        location: Prague, Czech Republic
+        url: https://www.cuni.cz/
+        area: Surface and Plasma Science
+        studyType: Doctoral studies
+        start_date: ""
+        end_date: Present
+        highlights:
+          - Dissertation topic: Degradation of Platinum-based bimetallic fuel cell catalysts.
+          - Nanomaterials Group, Department of Surface and Plasma Science.
+
+    Experience:
+      - company: Charles University
+        position: Researcher / Doctoral Researcher
+        location: Prague, Czech Republic
+        start_date: ""
+        end_date: Present
+        summary: >
+          Research on Pt-based electrocatalysts, catalyst preparation,
+          electrochemical performance, surface composition, degradation,
+          and stability for hydrogen-energy applications.
+
+    Skills:
+      - name: Research areas
+        icon: fa-solid fa-flask
+        keywords: "Electrocatalysis, Fuel Cells, Electrolyzers, Platinum Catalysts, Nanostructured Materials, Surface Science"
+      - name: Experimental approaches
+        icon: fa-solid fa-microscope
+        keywords: "Magnetron Sputtering, Electrochemistry, Thin Films, Surface Characterization, Nanomaterials"
+
+    Interests:
+      - name: Energy materials
+        icon: fa-solid fa-bolt
+        keywords: "Hydrogen Technologies, Electrocatalysis, Catalyst Stability, Surface Chemistry"
